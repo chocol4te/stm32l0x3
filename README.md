@@ -1,3 +1,5 @@
+# *USE https://github.com/stm32-rs/stm32-rs INSTEAD*
+
 # `stm32l0x3`
 > Peripheral access API for STM32L0x3 microcontrollers
 
